@@ -1,2 +1,2 @@
 # DevOps-CrashCourse
-DevOps-CrashCourse
+**Nikita Ovcharenko**
